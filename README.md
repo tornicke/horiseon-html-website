@@ -1,10 +1,10 @@
 <h1>Module 1 Challenge: Code Refactor</h1>
 
-<h2>Purpose of the challenge</h2>
-<h3>This purpose of this challenge was to refactor the existing code to make it more accessible. The website is built in HTML and CSS.</h3>
+<h3>Purpose of the challenge</h3>
+<h4>This purpose of this challenge was to refactor the existing code to make it more accessible. The website is built in HTML and CSS.</h4>
 
-<h2>Challenge requirements</h2>
-<h3>
+<h3>Challenge requirements</h3>
+<h4>
 <li>Application's links all function correctly</li>
 <li>Application's CSS selectors and properties are consolidated and organized to follow semantic structure.</li>
 <li>Application's CSS file is properly commented.</li>
@@ -17,5 +17,4 @@
 <li>Repository follows best practices for file structure and naming conventions.</li>
 <li>Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.</li>
 <li>Repository contains multiple descriptive commit messages.</li>
-<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
-</h3>
+<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
