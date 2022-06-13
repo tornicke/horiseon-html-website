@@ -24,4 +24,4 @@
 
 
 <h3>Screenshot of the website</h3>
-![Horiseon website screenshot](Develop/assets/images/Horiseon-website-screenshot.jpeg?raw=true "Title")
+![Horiseon website screenshot](Develop/assets/images/Horiseon-website-screenshot.jpeg=true "Title")
