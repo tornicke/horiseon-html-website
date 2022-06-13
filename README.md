@@ -44,6 +44,6 @@
 
 
 <h3>URLs</h3>
-Live deployment URL: https://tornicke.github.io/horiseon-html-website/
-GitHub repository URL: ttps://github.com/tornicke/horiseon-html-website
+<li>Live deployment URL: https://tornicke.github.io/horiseon-html-website/</li>
+<li>GitHub repository URL: ttps://github.com/tornicke/horiseon-html-website</li>
 
