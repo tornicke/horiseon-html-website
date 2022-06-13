@@ -29,22 +29,21 @@
 
 <h3>Changes made to the starter code</h3>
 <h2>In HTML</h2>
-</h4><li>Defined the header</li>
-<li>Structured listed items and their tags</li>
-<li>Application's CSS file is properly commented.</li>
-<li>Application deployed at live URL.</li>
-<li>Application loads with no errors.</li>
-<li>Application GitHub URL submitted.</li>
-<li>GitHub repository that contains application code.</li>
-<li>Application resembles (at least 90%) screenshots provided in challenge instructions.</li>
-<li>Repository has a unique name.</li>
-<li>Repository follows best practices for file structure and naming conventions.</li>
-<li>Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.</li>
-<li>Repository contains multiple descriptive commit messages.</li>
-<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
-<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
+</h4><li>Defined the header.</li>
+<li>Structured listed items and their tags.</li>
+<li>Added an alt attribute to the header image.</li>
+<li>Added an alt attribute to each of the main content sections images and reordered the code for each, also removed 2 unnecessary class items.</li>
+<li>Defined the aside elements.</li>
+<li>Added an alt attribute to each of the aside element images.</li>
+<li>Defined the footer, reduced the heading size from h3 to h4.</li>
+
+<h2>In CSS</h2>
+<li>Added font family (borrowed from the header element).</li>
+<li>Commented on different elements (header, aside elements, footer, etc.).</li>
+<li>Changed the footer heading size from h3 to h4.</li>
+
 
 <h3>URLs</h3>
-Live deployment URL: https://tornicke.github.io/horiseon-html-website/
-GitHub repository URL: https://github.com/tornicke/horiseon-html-website
+Live deployment URL:(https://tornicke.github.io/horiseon-html-website/)
+GitHub repository URL:(ttps://github.com/tornicke/horiseon-html-website)
 
