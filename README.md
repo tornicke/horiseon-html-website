@@ -47,4 +47,5 @@ This purpose of this challenge was to refactor the existing code to make it more
 Live deployment URL:https://tornicke.github.io/horiseon-html-website/
 
 GitHub repository URL:https://github.com/tornicke/horiseon-html-website
-
+![Live deployment URL](https://tornicke.github.io/horiseon-html-website/)
+![GitHub repository URL](https://github.com/tornicke/horiseon-html-website)
