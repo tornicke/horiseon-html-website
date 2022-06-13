@@ -6,8 +6,7 @@
 
 <h3>Challenge requirements</h3>
 
-<h4>
-<li>Application's links all function correctly</li>
+<h4><li>Application's links all function correctly</li>
 <li>Application's CSS selectors and properties are consolidated and organized to follow semantic structure.</li>
 <li>Application's CSS file is properly commented.</li>
 <li>Application deployed at live URL.</li>
@@ -45,5 +44,5 @@
 
 <h3>URLs</h3>
 Live deployment URL:(https://tornicke.github.io/horiseon-html-website/)
-GitHub repository URL:(ttps://github.com/tornicke/horiseon-html-website)
+GitHub repository URL:(https://github.com/tornicke/horiseon-html-website)
 
