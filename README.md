@@ -3,7 +3,9 @@
 <h3>Purpose of the challenge</h3>
 <h4>This purpose of this challenge was to refactor the existing code to make it more accessible. The website is built in HTML and CSS.</h4>
 
+
 <h3>Challenge requirements</h3>
+
 <h4>
 <li>Application's links all function correctly</li>
 <li>Application's CSS selectors and properties are consolidated and organized to follow semantic structure.</li>
@@ -19,3 +21,7 @@
 <li>Repository contains multiple descriptive commit messages.</li>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h3>
+
+
+<h3>Screenshot of the website</h3>
+![Horiseon-website-screenshot](Develop/assets/images/Horiseon-website-screenshot.jpeg)
