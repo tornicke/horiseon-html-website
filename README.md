@@ -1,7 +1,7 @@
 <h1>Module 1 Challenge: Code Refactor</h1>
 
 <h3>Purpose of the challenge</h3>
-<h4>This purpose of this challenge was to refactor the existing code to make it more accessible. The website is built in HTML and CSS.</h4>
+This purpose of this challenge was to refactor the existing code to make it more accessible. The website is built in HTML and CSS.
 
 
 <h3>Challenge requirements</h3>
