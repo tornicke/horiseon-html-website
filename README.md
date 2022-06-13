@@ -6,7 +6,7 @@
 
 <h3>Challenge requirements</h3>
 
-<h4><li>Application's links all function correctly</li>
+<li>Application's links all function correctly</li>
 <li>Application's CSS selectors and properties are consolidated and organized to follow semantic structure.</li>
 <li>Application's CSS file is properly commented.</li>
 <li>Application deployed at live URL.</li>
@@ -19,7 +19,7 @@
 <li>Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.</li>
 <li>Repository contains multiple descriptive commit messages.</li>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
-<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
+<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
 
 
 <h3>Horiseon website screeenshot</h3>
@@ -28,18 +28,18 @@
 
 <h3>Changes made to the starter code</h3>
 <h2>In HTML</h2>
-</h4><li>Defined the header.</li>
+<li>Defined the header.</li>
 <li>Structured listed items and their tags.</li>
 <li>Added an alt attribute to the header image.</li>
 <li>Added an alt attribute to each of the main content sections images and reordered the code for each, also removed 2 unnecessary class items.</li>
 <li>Defined the aside elements.</li>
 <li>Added an alt attribute to each of the aside element images.</li>
-<li>Defined the footer, reduced the heading size from h3 to h4.</li></h4>
+<li>Defined the footer, reduced the heading size from h3 to h4.</li>
 
 <h2>In CSS</h2>
-<h4><li>Added font family (borrowed from the header element).</li>
+<li>Added font family (borrowed from the header element).</li>
 <li>Commented on different elements (header, aside elements, footer, etc.).</li>
-<li>Changed the footer heading size from h3 to h4.</li></h4>
+<li>Changed the footer heading size from h3 to h4.</li>
 
 
 <h3>URLs</h3>
