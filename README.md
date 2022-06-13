@@ -19,9 +19,10 @@
 <li>Repository follows best practices for file structure and naming conventions.</li>
 <li>Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.</li>
 <li>Repository contains multiple descriptive commit messages.</li>
+<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
-<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h3>
 
 
-<h3>Screenshot of the website</h3>
-![Horiseon-website-screenshot](Develop/assets/images/Horiseon-website-screenshot.jpeg)
+<h3>Horiseon website screeenshot</h3>
+
+![image](https://user-images.githubusercontent.com/104928179/173416079-7cd73be6-0e4f-477c-86ba-432bf44c3ce0.png)
