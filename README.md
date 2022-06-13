@@ -44,6 +44,7 @@
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
 
+<h3>URLs</h3>
 Live deployment URL: https://tornicke.github.io/horiseon-html-website/
-GitHub repository link: https://github.com/tornicke/horiseon-html-website
+GitHub repository URL: https://github.com/tornicke/horiseon-html-website
 
