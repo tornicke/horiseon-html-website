@@ -196,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/*footer styles*/
 .footer {
     padding: 30px;
     clear: both;
@@ -203,6 +204,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*changed the heading size from h3 to h4*/
+.footer h4 {
     font-size: 20px;
 }
