@@ -18,3 +18,4 @@
 <li>Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.</li>
 <li>Repository contains multiple descriptive commit messages.</li>
 <li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h4>
+<li>Repository contains a quality README file with description, screenshot, and link to deployed application.</li></h3>
