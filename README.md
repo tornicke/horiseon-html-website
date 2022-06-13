@@ -34,12 +34,12 @@
 <li>Added an alt attribute to each of the main content sections images and reordered the code for each, also removed 2 unnecessary class items.</li>
 <li>Defined the aside elements.</li>
 <li>Added an alt attribute to each of the aside element images.</li>
-<li>Defined the footer, reduced the heading size from h3 to h4.</li>
+<li>Defined the footer, reduced the heading size from h3 to h4.</li></h4>
 
 <h2>In CSS</h2>
-<li>Added font family (borrowed from the header element).</li>
+<h4><li>Added font family (borrowed from the header element).</li>
 <li>Commented on different elements (header, aside elements, footer, etc.).</li>
-<li>Changed the footer heading size from h3 to h4.</li>
+<li>Changed the footer heading size from h3 to h4.</li></h4>
 
 
 <h3>URLs</h3>
